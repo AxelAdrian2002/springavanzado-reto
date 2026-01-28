@@ -1,0 +1,25 @@
+{
+  "cliente": "egarza",
+  "direccionCliente": {
+    "pais": "MX",
+    "estado": "NUEVO LEON",
+    "municipio": "MONTERREY",
+    "ciudad": "MONTERREY",
+    "calle": "Eugenio Garza Sada",
+    "numero": "2501 Sur",
+    "telefono": "81 8358 2000",
+    "codigoPostal": "64700"
+  },
+  "articulos": [
+    {
+      "producto": "PANTALON",
+      "cantidad": 2,
+      "precioUnitario": 4.55
+    },
+    {
+      "producto": "CAMISA",
+      "cantidad": 3,
+      "precioUnitario": 7.88
+    }
+  ]
+}
